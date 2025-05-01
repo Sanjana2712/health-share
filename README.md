@@ -6,7 +6,7 @@ An online platform that consolidates and represents COVID-19 healthcare worker e
 
 🎬 **Demo**
 
-https://github.com/user-attachments/assets/b4c8d0dc-e8c5-4d71-b860-89e039f89d7c
+https://github.com/user-attachments/assets/6724570e-10c1-41ec-9605-6af21336ee7d
 
 ## 🎯 Key Features
 - 🔍 Advanced search and filtering capabilities 
