@@ -4,6 +4,10 @@ An online platform that consolidates and represents COVID-19 healthcare worker e
 
 #### **Live link** : http://18.218.238.186
 
+🎬 **Demo**
+
+https://github.com/user-attachments/assets/b4c8d0dc-e8c5-4d71-b860-89e039f89d7c
+
 ## 🎯 Key Features
 - 🔍 Advanced search and filtering capabilities 
 - 📱 Data from multiple social media platforms (Twitter, Facebook, Medium, CNN) 
