@@ -4,15 +4,15 @@ An online platform that consolidates and represents COVID-19 healthcare worker e
 
 Live link : http://18.218.238.186
 
-🎯 Key Features
+🎯 ** Key Features**
 
-🔍 Advanced search and filtering capabilities
-📱 Data from multiple social media platforms (Twitter, Facebook, Medium, CNN)
-🧠 AI-powered sentiment analysis of healthcare worker content
-📊 Interactive dashboard for exploring healthcare worker experiences
+🔍 Advanced search and filtering capabilities 
+📱 Data from multiple social media platforms (Twitter, Facebook, Medium, CNN) 
+🧠 AI-powered sentiment analysis of healthcare worker content 
+📊 Interactive dashboard for exploring healthcare worker experiences 
 
 
-🛠️ Technologies
+🛠️ **Technologies**
 
 💾 MongoDB for flexible data storage
 🐍 Python for data processing and analysis
@@ -20,7 +20,7 @@ Live link : http://18.218.238.186
 🤖 Machine learning for text classification
 🔌 Apify API for data collection
 
-⚙️ Installation
+⚙️ **Installation**
 # Clone repository
 git clone https://github.com/yourusername/healthshare.git
 cd healthshare
