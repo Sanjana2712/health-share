@@ -13,11 +13,11 @@ An online platform that consolidates and represents COVID-19 healthcare worker e
 
 ## 🛠️ Technologies
 
-- 💾 MongoDB for flexible data storage
+- 💾 PostgreSQL for flexible data storage
 - 🐍 Python for data processing and analysis
 - 🌐 Node.js & React for web interface
-- 🤖 Machine learning for text classification
-- 🔌 Apify API for data collection
+- 🤖 Meta LLAMA for text classification and processing
+- 🔌 Apify API, beautiful soup, tweepy for data collection
 
 ## ⚙️ Installation
 ### Clone repository
